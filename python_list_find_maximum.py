@@ -1,7 +1,7 @@
 from random import randint
 
 #make an empty list
-l=[]
+l = []
 
 #generate a list of 50 random numbers between 0 and 100 and appends to the list
 for i in range(50):
